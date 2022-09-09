@@ -6,7 +6,7 @@ import random
 from datetime import timedelta
 
 import numpy as np
-
+# genrating dummy values
 
 class Customer(object):
     def __init__(self, customer_id, loyalty_score):
